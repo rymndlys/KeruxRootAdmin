@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.1//EN" "http://struts.apache.org/dtds/struts-2.1.dtd">
+<struts>
+<constant name="struts.action.excludePattern" value="/AndroidServlet,/LoginQMServlet,/ActiveQueueListQMServlet,/DepartmentListQMServlet,/DoctorListQMServlet,/BeginQueueQMServlet,/PatientListQMServlet,/MarkCalledQMServlet,/EndQueueQMServlet,/MarkServedQMServlet,/MarkNoShowQMServlet,/GeneratePDFDataQMServlet,/LoginAdminServlet,/InsertAuditAdminServlet,/TotalDeptAdminServlet,/TotalQMAdminServlet,/BlockPrivilegesAdminServlet,/DoEnrollQMServlet,/DoEnrollDoctor,/DoEnrollDocType,/DoEnrollDepartmentServlet,/UnenrollQMServlet,/CheckQMListServlet,/DoEnrollReasonQM,/UnenrollDocServlet,/CheckDocList,/DoEnrollDocReasonServlet,/UnenrollDepServlet,/DoEnrollReasonDept,/GeneratePDFDataAdminServlet,/GenerateStatServlet,/AuditReportAdminServlet,/clinicSpinnerServlet,/departmentSpinnerServlet,/doctorSpinnerServlet,/doctorTypeSpinnerServlet,/patientSpinnerServlet,/reasonRevokeSpinnerServlet,/reasonSpinnerDeptServlet,/reasonSpinnerDoctorServlet,/reasonSpinnerPatientServlet,/reasonSpinnerQMServlet,/ListEnrolledAcctAdminServlet,/ListQMServlet,/ListDocServlet,/ListDepServlet,/ListBlockedAcctAdminServlet,/LoginPatientServlet,/RegisterPatientServlet,/QueuePatientServlet,/ErrorReportPatientServlet,/ViewQueuePatientServlet,/ClinicListPatientServlet,/UpdatePatientPass,/UpdatePatientProfile,/RegisterGuestServlet,/TotalQMDeptAdminServlet,/ListAuditAdminServlet,/RootAdmin2/apk/keruxqueuemanager.apk,/UpdateQMProfile,/UpdateQMPass,/UpdateAdminProfile,/UpdateAdminPass,/VerifyDoctor,/ListEditQM,/UploadFileClinic,/UpdateQMServlet,/ListDocEditServlet,/GiveRatingServlet, /ListRatingAdminServlet, /RatingReportAdminServlet, /UploadPicDocServlet, /GetDocPhoto,/CheckInstanceCancelled, /CheckInstanceQueue, /CheckInstanceNoShow, /CancelQueueServlet, /PDFaudit, /PDFrating"/>
+<constant name="struts.ui.theme" value="simple" />
+<package name="abc" extends="struts-default">
+
+
+<action name="login">
+<result >login.jsp</result>
+</action>
+
+<action name="loginprocess" class="com.kerux.controllers.Login" method="execute">
+<result name="input"  >login.jsp</result>
+<result name="success" type="chain" >index</result>
+</action>
+
+<action name="logout" class="com.kerux.controllers.Login" method="display">
+<result name="loggout">login.jsp</result>
+</action>
+
+<action name="index" class="com.kerux.controllers.MainController" method="display">
+<result name="success" >index.jsp</result>
+<result name="error" >notloggedinerror.jsp</result>
+</action>
+
+
+<action name="clinicenroll" class="com.kerux.actions.ClinicEnrollment">
+<result name="success" type="chain">index</result>
+<result name="input" type="chain">index</result>
+</action>
+
+
+<action name="clinicunenroll" class="com.kerux.actions.ClinicUnenrollment">
+<result name="success" type="chain">index</result>
+<result name="input" type="chain">index</result>
+</action>
+
+
+<action name="adminenroll" class="com.kerux.actions.AdminEnrollment">
+<result name="success" type="chain">index</result>
+<result name="input" type="chain">index</result>
+</action>
+
+<action name="adminunenroll" class="com.kerux.actions.AdminUnenrollment" >
+<result name="success" type="chain">index</result>
+<result name="input"  type="chain">index</result>
+</action>
+
+<action name="uploadclinic" class="com.kerux.actions.ClinicUpload" >
+<result name="success" type="chain">index</result>
+<result name="input" type="chain">index</result>
+</action>
+
+
+<action name="doUpload" class="com.kerux.actions.UploadAction">
+    <result name="success" type="chain">index</result>
+    <result name="input" type="chain">index</result>
+</action>
+
+</package>
+
+</struts>    

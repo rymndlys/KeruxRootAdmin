@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/activation.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/antlr-2.7.6.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/aopalliance-1.0.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/asm-3.3.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/asm-commons-3.3.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/asm-tree-3.3.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/classworlds-1.1.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/commons-beanutils-1.7.0.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/commons-chain-1.2.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/commons-codec-1.9.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/commons-collections-3.2.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/commons-digester-2.0.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/commons-fileupload-1.2.1.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/commons-io-1.3.2.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/commons-lang-2.3.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/commons-logging-1.0.4.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/commons-logging-api-1.1.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/commons-validator-1.3.1.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/dom4j-1.6.1.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/freemarker-2.3.15.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/gson-2.6.2.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/javassist-3.12.0.GA.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/json-lib-2.1.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/jta-1.1.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/mail.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/mysq.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/mysql-connector-java-5.1.36-bin.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/ognl-2.7.3.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/oro-2.0.8.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/slf4j-api-1.6.1.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/sslext-1.2-0.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/struts2-convention-plugin-2.1.8.1.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/struts2-core-2.1.8.1.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/struts2-dojo-plugin-2.1.8.1.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/struts2-embeddedjsp-plugin-2.1.8.1.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/struts2-json-plugin-2.1.8.1.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/struts2-tiles-plugin-2.1.8.1.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/tiles-api-2.0.6.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/tiles-core-2.0.6.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/tiles-jsp-2.0.6.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/velocity-1.5.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/xssflt.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/xwork-core-2.1.6.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/twilio-8.4.0-jar-with-dependencies.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/itextpdf-5.5.13.2.jar" />
+    <conelement value="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0" />
+    <conelement value="org.eclipse.jst.j2ee.internal.web.container" />
+    <conelement value="org.eclipse.jst.j2ee.internal.module.container" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/build/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="jre1.8.0_241" jdkType="JavaSDK" />
+    <orderEntry type="library" name="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0" level="application" />
+    <orderEntry type="library" name="org.eclipse.jst.j2ee.internal.web.container" level="application" />
+    <orderEntry type="library" name="org.eclipse.jst.j2ee.internal.module.container" level="application" />
+    <orderEntry type="module-library">
+      <library name="activation.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/activation.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="antlr-2.7.6.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/antlr-2.7.6.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aopalliance-1.0.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/aopalliance-1.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="asm-3.3.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/asm-3.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="asm-commons-3.3.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/asm-commons-3.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="asm-tree-3.3.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/asm-tree-3.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="classworlds-1.1.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/classworlds-1.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-beanutils-1.7.0.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/commons-beanutils-1.7.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-chain-1.2.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/commons-chain-1.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-codec-1.9.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/commons-codec-1.9.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-collections-3.2.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/commons-collections-3.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-digester-2.0.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/commons-digester-2.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-fileupload-1.2.1.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/commons-fileupload-1.2.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-io-1.3.2.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/commons-io-1.3.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang-2.3.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/commons-lang-2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging-1.0.4.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/commons-logging-1.0.4.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging-api-1.1.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/commons-logging-api-1.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-validator-1.3.1.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/commons-validator-1.3.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="dom4j-1.6.1.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/dom4j-1.6.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="freemarker-2.3.15.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/freemarker-2.3.15.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="gson-2.6.2.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/gson-2.6.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javassist-3.12.0.GA.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/javassist-3.12.0.GA.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="json-lib-2.1.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/json-lib-2.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jta-1.1.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/jta-1.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mail.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/mail.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mysq.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/mysq.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mysql-connector-java-5.1.36-bin.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/mysql-connector-java-5.1.36-bin.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ognl-2.7.3.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/ognl-2.7.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="oro-2.0.8.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/oro-2.0.8.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-api-1.6.1.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/slf4j-api-1.6.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sslext-1.2-0.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/sslext-1.2-0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="struts2-convention-plugin-2.1.8.1.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/struts2-convention-plugin-2.1.8.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="struts2-core-2.1.8.1.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/struts2-core-2.1.8.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="struts2-dojo-plugin-2.1.8.1.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/struts2-dojo-plugin-2.1.8.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="struts2-embeddedjsp-plugin-2.1.8.1.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/struts2-embeddedjsp-plugin-2.1.8.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="struts2-json-plugin-2.1.8.1.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/struts2-json-plugin-2.1.8.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="struts2-tiles-plugin-2.1.8.1.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/struts2-tiles-plugin-2.1.8.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tiles-api-2.0.6.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/tiles-api-2.0.6.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tiles-core-2.0.6.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/tiles-core-2.0.6.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tiles-jsp-2.0.6.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/tiles-jsp-2.0.6.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="velocity-1.5.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/velocity-1.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xssflt.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/xssflt.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xwork-core-2.1.6.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/xwork-core-2.1.6.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="twilio-8.4.0-jar-with-dependencies.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/twilio-8.4.0-jar-with-dependencies.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="itextpdf-5.5.13.2.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../ACADS-YAN/THESIS/workspacecode/RootAdministrator jars/itextpdf-5.5.13.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
